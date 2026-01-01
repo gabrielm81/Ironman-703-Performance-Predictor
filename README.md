@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vy0NOMFQlrtHJWnPAIV5Hsq15v7G5LRP?usp=sharing)
+
 # Ironman-703-Performance-Predictor
 This is a physiological inference model designed to predict race performance based on cumulative training history and biological efficiency.
 
@@ -15,5 +17,5 @@ Each of these signify the pace that I have tested that I can hold for an hour in
 
 How to use it: 
 1. Open the `.ipynb` file in this repository.
-2. Click the **Open in Colab** button at the top (see link below).
+2. Click the **Open in Colab** button at the top.
 3. Input your personal averages and biometrics to generate your own prediction.
