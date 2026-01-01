@@ -10,8 +10,7 @@ This Model (Which I was interested in building thanks to Andrew Ng's Machine Lea
 
 Target Benchmark:
 - Goal Finish time: 4:58:00
-                              Bike,       Run,           Swim
-- My current primary metrics: FTP (255W), LTP (3:51/km), CSS (2:15/100m).
+- My current primary metrics: Bike FTP (255W), Run LTP (3:51/km), Swim CSS (2:15/100m).
 Each of these signify the pace that I have tested that I can hold for an hour in each of these sports.
 
 How to use it: 
